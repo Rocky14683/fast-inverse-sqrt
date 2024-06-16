@@ -1,0 +1,6 @@
+# ninja log v5
+324	355	1718550400714437492	FastReverseSqrtRoot	20889351fb3ce6c5
+1	324	1718550400681309672	CMakeFiles/FastReverseSqrtRoot.dir/main.cpp.o	3ffbc6b96957c22e
+0	50	1718550447501404440	build.ninja	bb3e13dca38b108b
+1	369	1718550447870193945	CMakeFiles/FastReverseSqrtRoot.dir/main.cpp.o	3ffbc6b96957c22e
+370	448	1718550447956791013	FastReverseSqrtRoot	20889351fb3ce6c5
